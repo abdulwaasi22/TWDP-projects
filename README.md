@@ -19,3 +19,73 @@ import pandas as pd
 
 df = pd.read_csv('Downloads/retail_sales_raw 2.csv')
 df.head()
+
+
+
+# TWDP: Data Analysis & Visualization Practice
+
+## Project Overview
+This Jupyter Notebook (`TWDP.ipynb`) is a practice workbook demonstrating foundational data science skills using Python. It covers two core tasks:
+
+1. **Data Loading with Pandas** – Reading a raw retail sales CSV file into a DataFrame.
+2. **Data Visualization with Matplotlib** – Plotting a dual-line chart of daily temperature and humidity for Lagos.
+
+## Notebook Contents
+
+### Part 1: Loading Retail Sales Data (Pandas)
+```python
+import pandas as pd
+
+df = pd.read_csv('Downloads/retail_sales_raw 2.csv')
+df.head()
+
+
+
+# TWDP: Python Data Analysis & Visualization Practice
+
+## Project Overview
+This Jupyter Notebook (`TWDP.ipynb`) is a hands-on practice workbook demonstrating foundational Python data analysis and visualization skills. It covers:
+
+1. **Loading a retail sales dataset** with Pandas.
+2. **Plotting a dual-line weather chart** with Matplotlib (hardcoded data).
+3. **Filtering and aggregating a weather dataset** by city using Pandas.
+
+## Notebook Contents
+
+### Part 1: Loading Retail Sales Data (Pandas)
+```python
+import pandas as pd
+
+df = pd.read_csv('Downloads/retail_sales_raw 2.csv')
+df.head()
+
+
+# TWDP: Python Data Analysis & Visualization Practice
+
+## Project Overview
+This Jupyter Notebook (`TWDP.ipynb`) is a hands-on practice workbook demonstrating foundational Python data analysis and visualization skills. It covers data loading, filtering, aggregation, and plotting using **Pandas** and **Matplotlib**.
+
+## Notebook Contents
+
+### Part 1: Loading Retail Sales Data (Pandas)
+```python
+import pandas as pd
+
+df = pd.read_csv('Downloads/retail_sales_raw 2.csv')
+df.head()
+
+
+
+# TWDP: Python Data Analysis & Visualization Practice
+
+## Project Overview
+This Jupyter Notebook (`TWDP.ipynb`) is a hands-on practice workbook demonstrating foundational Python data analysis and visualization skills. It covers data loading, filtering, aggregation, and plotting using **Pandas**, **Matplotlib**, and **Seaborn**.
+
+## Notebook Contents
+
+### Part 1: Loading Retail Sales Data (Pandas)
+```python
+import pandas as pd
+
+df = pd.read_csv('Downloads/retail_sales_raw 2.csv')
+df.head()

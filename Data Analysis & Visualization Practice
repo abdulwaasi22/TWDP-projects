@@ -1,0 +1,16 @@
+# TWDP: Data Analysis & Visualization Practice
+
+## Project Overview
+This Jupyter Notebook (`TWDP.ipynb`) is a practice workbook demonstrating foundational data science skills using Python. It covers two core tasks:
+
+1. **Data Loading with Pandas** – Reading a raw retail sales CSV file into a DataFrame.
+2. **Data Visualization with Matplotlib** – Plotting a dual-line chart of daily temperature and humidity for Lagos.
+
+## Notebook Contents
+
+### Part 1: Loading Retail Sales Data (Pandas)
+```python
+import pandas as pd
+
+df = pd.read_csv('Downloads/retail_sales_raw 2.csv')
+df.head()
